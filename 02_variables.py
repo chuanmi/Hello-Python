@@ -1,3 +1,3 @@
 
 
-my_variable = "Hola, mi nombre es"
+my_variable = "Hola, mi nombre es Juan"
