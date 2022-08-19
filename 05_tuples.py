@@ -24,3 +24,31 @@ my_sum_tuple = my_tuple + my_other_tuple
 print(my_sum_tuple)
 
 print(my_sum_tuple[3:6])
+
+tpl = ("Canyon", "Giant", "Trek")
+print(len(tpl))
+
+# ------------------------------------------------------------------------
+# E1
+tuple =()
+print(tuple)
+
+# E2
+sisters = ("Sheila", "Natalia")
+brothers = ("Fran", "Pepe")
+
+# E3
+siblings = sisters + brothers
+print(siblings)
+
+#E4
+print(len(siblings))
+
+# E5
+siblings = list(siblings)
+siblings.append("Enrique")
+siblings.append("Pepi")
+print(siblings)
+
+siblings = tuple(siblings)
+print(siblings)
