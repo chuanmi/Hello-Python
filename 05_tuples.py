@@ -30,7 +30,7 @@ print(len(tpl))
 
 # ------------------------------------------------------------------------
 # E1
-tuple =()
+tuple = ()
 print(tuple)
 
 # E2
@@ -41,7 +41,7 @@ brothers = ("Fran", "Pepe")
 siblings = sisters + brothers
 print(siblings)
 
-#E4
+# E4
 print(len(siblings))
 
 # E5
